@@ -1,2 +1,4 @@
+server:
+  port: 8086
 product:
   product-name: Zapatillas de Deporte en prod
